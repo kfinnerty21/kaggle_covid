@@ -14,7 +14,7 @@ Each task has its own sucess and scoring criteria. The scoring equally weights t
 The approach proposed by this work is to create a robust extract and enrich pipeline that can be used to answer any of the tasks.
 The current state of the approach looks like the below:
 
-![architecture](https://github.com/kfinnerty21/kaggle_covid/arch_overview.jpg "Overview")
+![architecture](arch_overview.jpg "Overview")
 
 
 
