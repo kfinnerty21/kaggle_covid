@@ -1,3 +1,4 @@
-./data/*
+data/
+Notebooks/.ipynb_checkpoints/
 *.csv
 *.pickle
