@@ -126,8 +126,6 @@ dependencies:
   - pip:
     - blis==0.4.1
     - catalogue==1.0.0
-    - en-core-web-lg==2.2.5
-    - en-core-web-sm==2.2.5
     - preshed==3.0.2
     - rake-nltk==1.0.4
     - srsly==1.0.2
