@@ -37,5 +37,5 @@ def test_pub_clean(data_file):
     pub.clean_text()
     assert pub.paper_id == '00000001'
     assert pub.title == 'Test Text'
-    assert pub.abstract == "\nabstract sentence 1 is high quality.\nabstract sentence 2 is of lesser quality.\nabstract sentence 3 is bad."
-    assert pub.text == "\nbody text sentence 1 gives an overview of the paper.\nbody sentence 2 provide context for the research.\nbest sentence 3 provides the results."
+    assert pub.abstract == "abstract sentence 1 is high quality. abstract sentence 2 is of lesser quality. abstract sentence 3 is bad."
+    assert pub.text == "body text sentence 1 gives an overview of the paper. body sentence 2 provide context for the research. best sentence 3 provides the results."
