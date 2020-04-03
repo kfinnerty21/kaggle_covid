@@ -17,6 +17,18 @@ The current state of the approach looks like the below:
 
 ![architecture](arch_overview.jpg "Overview")
 
+# Usgae
+
+To run the analysis the following steps are required:
+
+1. Download data from kaggle.
+2. Set up environment using "conda env create -f environment.yml"
+3. Activate conda environment. 
+4. Download required Spacy NLP models "python -m spacy download <model-name-here>"
+5. Run ETL notebooks - Notebooks/ETL.ipnb.
+6. Run analysis notebooks- Notebooks/NEtwork Analysis XXX .ipnb.
+
+
 
 
 
